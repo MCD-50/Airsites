@@ -13,6 +13,7 @@ import reducer from './src/store/reducer';
 
 //import styles here
 import './src/style/css/app.css';
+//import 'antd/dist/antd.css'; 
 
 //import js files
 
